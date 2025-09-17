@@ -665,6 +665,7 @@ button {
   margin-top: 15px;
 }
 /************************************* about style ********************************* */
+/* *************************************hero_section *********************************/
 .hero_bg_2 {
   background-image: url(../img/hero-bg.jpg);
   background-position: center;
@@ -685,5 +686,20 @@ button {
 
   font-size: 16px;
   font-family: "Open Sans", sans-serif;
-  margin-left: 375px;
+  margin-left: 350px;
+}
+/* **********************************close_section_style ******************************** */
+.close_section {
+  padding: 90px;
+}
+/******************************** .service-style******************************************* */
+/* **********************************Creative_Services_section_2 ********************************/
+.Creative_Services_section_2 {
+  padding: 70px;
+}
+/*********************************** our_team_section_style************************************** */
+/************************************** Professional_section_bg_2******************************** */
+.Professional_section_bg_2 {
+  background-color: white;
+  padding-bottom: 90px;
 }
