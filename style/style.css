@@ -686,7 +686,7 @@ button {
 
   font-size: 16px;
   font-family: "Open Sans", sans-serif;
-  margin-left: 350px;
+  margin-left: 340px;
 }
 /* **********************************close_section_style ******************************** */
 .close_section {
@@ -702,4 +702,14 @@ button {
 .Professional_section_bg_2 {
   background-color: white;
   padding-bottom: 90px;
+}
+
+/* *******************************mobile_contact************** */
+.mobile_contact {
+  padding: 80px;
+  background-color: whitesmoke;
+}
+.mobile_content {
+  text-align: center;
+  color: #009970;
 }
